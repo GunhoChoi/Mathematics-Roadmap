@@ -1,6 +1,6 @@
 # Mathematics-Roadmap
-Mathematics &amp; Statistics 
-Supervisor: Ph.D Lim Sung Bin
+
+Mathematics &amp; Statistics supervised by Ph.D Lim Sung Bin
 
 ## All of Statistics
 
