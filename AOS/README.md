@@ -11,7 +11,7 @@ All of statistics
 
 ## Chapter 2. Random Variables
 
-- [Visualizing Distributions](https://github.com/GunhoChoi/AOS/blob/master/distributions/Distributions.ipynb)
+- [Visualizing Distributions](https://github.com/GunhoChoi/Mathematics-Roadmap/blob/master/AOS/distributions/Distributions.ipynb)
 
 ## Chapter 9. Parametric Inference
 
