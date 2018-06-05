@@ -16,3 +16,5 @@ Mathematics &amp; Statistics study supervised by Ph.D Lim Sung Bin
 3. 최병선 교수님 교재들 (1) 행렬 대각화 (2) Wavelet (3) Fourier
 
 4. stephan mallat wavelet -> "Tour of signal processing"
+
+https://github.com/joanbruna/MathsDL-spring18
