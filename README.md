@@ -15,6 +15,8 @@ Mathematics &amp; Statistics study supervised by Ph.D Lim Sung Bin
 
 3. 최병선 교수님 교재들 (1) 행렬 대각화 (2) Wavelet (3) Fourier
 
+- https://www.kss.or.kr/bbs/board.php?bo_table=pds_data&wr_id=98 
+
 4. stephan mallat wavelet -> "Tour of signal processing"
 
 https://github.com/joanbruna/MathsDL-spring18
@@ -22,3 +24,4 @@ https://github.com/joanbruna/MathsDL-spring18
 ## Open courses
 
 1. http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_2017_01+2018_SKKU03/courseware/8d74a0f6e34142878954a0c1d3271c99/815eb9196742449fb989eac19375686e/
+
