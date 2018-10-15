@@ -9,7 +9,7 @@ Mathematics &amp; Statistics study supervised by Ph.D Lim Sung Bin
 
 ## Roadmap of 2018
 
-1. Gilbert Strang 의 Linear Algebra(Open course 링크 : https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+1. [Gilbert Strang 의 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 2. Sheldon Ross 의 Introduction to Probability Models
 
@@ -19,9 +19,10 @@ Mathematics &amp; Statistics study supervised by Ph.D Lim Sung Bin
 
 4. stephan mallat wavelet -> "Tour of signal processing"
 
-https://github.com/joanbruna/MathsDL-spring18
 
 ## Open courses
 
 1. http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_2017_01+2018_SKKU03/courseware/8d74a0f6e34142878954a0c1d3271c99/815eb9196742449fb989eac19375686e/
+
+https://github.com/joanbruna/MathsDL-spring18
 
