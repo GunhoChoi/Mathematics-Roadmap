@@ -11,6 +11,8 @@ Mathematics &amp; Statistics study supervised by Ph.D Lim Sung Bin
 
 1. [Gilbert Strang 의 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
+http://math.mit.edu/~gs/linearalgebra/
+
 2. Sheldon Ross 의 Introduction to Probability Models
 
 3. 최병선 교수님 교재들 (1) 행렬 대각화 (2) Wavelet (3) Fourier
